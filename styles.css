@@ -1,0 +1,33 @@
+body {
+    background-color: lightgrey;
+}
+
+h1 {
+    background-color: yellow;
+    font-family: helvetica;
+}
+
+h2 {
+    color: purple;
+}
+
+.part-one {
+    background-color: white;
+    padding: 10px;
+    border: 15px groove purple;
+    color: pink;
+}
+
+.part-two {
+    padding: 10px;
+    background-color: purple;
+    border: 10px dashed yellow;
+    margin: 20px;
+}
+.part-three {
+    background-color: black;
+    margin: 30px;
+    padding: 10px;
+    border: 10px solid pink;
+    color: yellow;
+}
